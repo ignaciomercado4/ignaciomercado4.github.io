@@ -40,4 +40,8 @@ Now here's one about my favourite movies/shows:
 
 - Interstellar (made me want to deep dive in graphics)
 - The Batman (2022)
-- 
+- Antz
+- Cyberbunker
+- Castlevania
+- Breaking Bad
+- Ozark
