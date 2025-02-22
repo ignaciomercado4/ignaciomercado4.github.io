@@ -1,4 +1,4 @@
-## Hello!
+## About me
 
 Welcome to my blog! My name is Ignacio, and I'm 18 years old. This blog will contain my thoughts, opinions, experiences, and rants about my interests. I have far too many hobbies and interests, so I'll share a little list of the ones I'm most drawn to, just so you know what to expect:
 
