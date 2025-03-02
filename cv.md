@@ -1,6 +1,4 @@
-## CV
-# CV - Ignacio Gastón Mercado
-
+## Ignacio Mercado, 18
 ## Software Developer | IT Technician
 
 📍 Posadas, Misiones, Argentina  
