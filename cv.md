@@ -9,18 +9,6 @@
 
 ---
 
-## Education
-
-### EPET N°1 “UNESCO”  
-📅 March 2019 - December 2024  
-🎓 High School - IT specialization
-
-### Universidad de la Cuenca del Plata  
-📅 February 2025 - December 2030  
-🎓 Computer Science
-
----
-
 ## About Me
 
 Backend developer with skills in TypeScript, Golang, Node.js, PHP, and Laravel. My professional focus is on writing clean and efficient code, making the most of every tool. I stay up to date with emerging technologies. Personally, I am passionate about video games, bodybuilding, coffee, and meeting new people.  
@@ -53,6 +41,28 @@ Developed solutions for the *ConSalud en Casa* application and *Sanatorio Boratt
 
 ---
 
+## 🔥 Projects
+
+- **[TimberTech (MVC Version)](https://github.com/ignaciomercado4/timbertech)** | Sawmill inventory application, used by 2 local sawmills as SaaS. *(Laravel, React)*  
+- **[Posadas Reports](https://github.com/ignaciomercado4/posadas-reports)** | Urban issue reporting system using maps. *(Golang)* [(View Deployment)](https://posadas-reports-production.up.railway.app/)  
+- **[Vaccination System REST API](https://github.com/ignaciomercado4/vaccine-api)** | API designed to manage users, authentication, medicines, and vaccinations. *(Golang)*  
+
+More projects available on my [GitHub profile](http://www.github.com/ignaciomercado4).  
+
+---
+
+## Education
+
+### EPET N°1 “UNESCO”  
+📅 March 2019 - December 2024  
+🎓 High School - IT specialization
+
+### Universidad de la Cuenca del Plata  
+📅 February 2025 - December 2030  
+🎓 Computer Science
+
+---
+
 ## 📜 Courses and Certifications
 
 - Professional Docker Course | Código Facilito  
@@ -65,12 +75,3 @@ Developed solutions for the *ConSalud en Casa* application and *Sanatorio Boratt
 
 View my certificates [here.](https://drive.google.com/file/d/1qVWwjbs3wgJkTAsh15Qaap02NR3gF0ay/view?usp=drive_link).
 
----
-
-## 🔥 Projects
-
-- **[TimberTech (MVC Version)](https://github.com/ignaciomercado4/timbertech)** | Sawmill inventory application, used by 2 local sawmills as SaaS. *(Laravel, React)*  
-- **[Posadas Reports](https://github.com/ignaciomercado4/posadas-reports)** | Urban issue reporting system using maps. *(Golang)* [(View Deployment)](https://posadas-reports-production.up.railway.app/)  
-- **[Vaccination System REST API](https://github.com/ignaciomercado4/vaccine-api)** | API designed to manage users, authentication, medicines, and vaccinations. *(Golang)*  
-
-More projects available on my [GitHub profile](http://www.github.com/ignaciomercado4).  
