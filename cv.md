@@ -12,8 +12,7 @@
 
 ## About Me
 
-Backend developer with skills in TypeScript, Golang, Node.js, PHP, and Laravel. My professional focus is on writing clean and efficient code, making the most of every tool. I stay up to date with emerging technologies. Personally, I am passionate about video games, bodybuilding, coffee, and meeting new people.  
-
+Backend developer with skills in TypeScript, Golang, Node.js, PHP, and Laravel. My professional focus is on writing clean and efficient code, making the most of every tool. I stay up to date with emerging technologies.
 ---
 
 ## Skills
